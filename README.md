@@ -63,24 +63,25 @@ Postman
 
 ## Topics covered :
 
-### 1. Inter-process communication
-### 2. Service Discovery using Netflix Eureka
-### 3. Implement API Gateway using Spring Cloud Gateway - Load Balancing and Routing
-### 4. Secure Microservices using Keycloak
-### 5. Implement Circuit Breaker, Timeout, Retries
-### 6. Implement Distributed Tracing
-### 7. Event-Driven Architecture using Kafka
-### 8. Dockerized the application
-### 9. How to create docker images for your modules without using docker - Jib library
-### 10. Monitoring Microservices using Prometheus and Grafana
+1. Inter-process communication
+2. Service Discovery using Netflix Eureka
+3. Implement API Gateway using Spring Cloud Gateway - Load Balancing and Routing
+4. Secure Microservices using Keycloak
+5. Implement Circuit Breaker, Timeout, Retries
+6. Implement Distributed Tracing
+7. Event-Driven Architecture using Kafka
+8. Dockerized the application
+9. How to create docker images for your modules without using docker - Jib library
+10. Monitoring Microservices using Prometheus and Grafana
+
 
 ## Common commands used : 
 
-###  1. docker - to build images, download images
-### 2. docker-compose : to download images & run container
-### 3. mvn - clean, build, install
-### 4. jib - build, dockerBuild
-### 5. git - init, status, pull, add, commit, push
+1. docker - to build images, download images
+2. docker-compose : to download images & run container
+3. mvn - clean, build, install
+4. jib - build, dockerBuild
+5. git - init, status, pull, add, commit, push
 
 
 
